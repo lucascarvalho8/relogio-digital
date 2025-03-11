@@ -1,5 +1,7 @@
 Relógio Digital
 
+link do relogio: https://lucascarvalho8.github.io/relogio-digital/
+
 🚀 Tecnologias Utilizadas:
 
 - HTML
@@ -20,3 +22,6 @@ Relógio Digital
 - Design responsivo para telas pequenas.
 - Implementar notificações de hora (por exemplo, um alarme simples).
 - Permitir que o usuário salve um fuso horário favorito.
+
+
+- Este projeto foi criado apenas para fins de aprendizado e portfólio.
